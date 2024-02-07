@@ -1,0 +1,1 @@
+![Image alt]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/JanaJasinovski/springlibrary/blob/master/addr.jpg)https://github.com/JanaJasinovski/springlibrary/blob/master/addr.jpg)
