@@ -5,3 +5,5 @@
 ![Image alt](https://github.com/JanaJasinovski/springlibrary/blob/master/free-spring.jpg)
 
 ![Image alt](https://github.com/JanaJasinovski/springlibrary/blob/master/free-spring-mvc.jpg)
+
+![Image alt](https://github.com/JanaJasinovski/springlibrary/blob/master/free-spring-sec.jpg)
